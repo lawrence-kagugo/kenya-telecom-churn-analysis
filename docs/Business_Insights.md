@@ -1,4 +1,4 @@
-# Business Insights — Kenya Telecom Customer Churn Analysis
+# Business Insights - Kenya Telecom Customer Churn Analysis
 
 Synthesized from Exploratory Data Analysis (Step 8) and Statistical Analysis (Step 9).
 Each insight below is backed by evidence and statistically validated (p<0.05) unless noted otherwise.
